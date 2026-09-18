@@ -1,0 +1,36 @@
+# AI Lead Qualification Logic
+
+## Objective
+
+Use AI by Zapier to evaluate incoming B2B leads and determine whether they meet the qualification criteria.
+
+## Qualification Criteria
+
+A lead is considered qualified when the submitted information indicates:
+
+- A legitimate business need
+- A relevant company or business
+- Clear interest in the product or service
+- Potential purchasing intent
+- Sufficient information for sales follow-up
+
+## AI Evaluation
+
+AI by Zapier analyzes the lead information and returns:
+
+- Qualification status
+- Lead summary
+- Reason for the qualification decision
+- Recommended sales follow-up
+
+## Workflow Decision
+
+Qualified leads → Continue to the sales follow-up stage.
+
+Unqualified leads → Stop the automated sales follow-up.
+
+Unclear or incomplete information → Flag for human review.
+
+## Business Value
+
+This logic helps the sales team prioritize promising leads, reduce manual qualification work, and respond to potential customers faster.
